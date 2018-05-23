@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6938" started-at="2018-05-23T09:51:12Z" finished-at="2018-05-23T09:51:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6938" started-at="2018-05-23T09:51:12Z" finished-at="2018-05-23T09:51:19Z">
+      <class name="seleniumExecutionProject.BasicProgram">
+        <test-method status="PASS" signature="navigate()[pri:0, instance:seleniumExecutionProject.BasicProgram@2a5ca609]" name="navigate" duration-ms="6922" started-at="2018-05-23T19:51:12Z" description="Test case executed through Jenkins" finished-at="2018-05-23T19:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+      </class> <!-- seleniumExecutionProject.BasicProgram -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
